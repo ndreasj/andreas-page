@@ -5,10 +5,10 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "Andreas Page",
-    template: "%s | Andreas Page",
+    default: "All about alpackas",
+    template: "%s | All about alpackas",
   },
-  description: "Articles and photos by Andreas.",
+  description: "All about alpackas.",
 };
 
 export default function RootLayout({
